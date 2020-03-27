@@ -1,4 +1,23 @@
-# COVID-19 data
+# es_MX translation of / Traduccion al es_MX de COVID-19 data 
+
+Aquí estamos traduciendo la página de datos sobre COVID-19 que mantiene el proyecto OUR WORLD IN DATA, con el objetivo de
+hacer este recurso disponible y de facil acceso a los usuarios e internautas de habla hispana, en especial de México, para
+hacer frente a la desinformación y favorecer la toma informada de decisiones por todos quienes consuman estos datos.
+
+## Hablas y escribes bien el inglés?
+
+Necesitamos de tu ayuda, únete al equipo de traducción en Transifex:
+
+https://www.transifex.com/h-lo/covid19-owid-es_mx
+
+## Ponte en contacto
+
+Grupo de discusión y coordinación en:
+
+https://groups.google.com/a/h-lo.me/d/forum/covid19
+
+
+----------
 
 Collection of COVID-19 data & scripts used and maintained by [Our World in Data](https://ourworldindata.org/coronavirus).
 
